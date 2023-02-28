@@ -2,6 +2,8 @@
 
 Clases, bibliografías, código y proyectos en Node js
 
+### Temas del curso
+
 - Fundamentos de Node
 - Temas necesarios para Node
 - Bases de Node
@@ -15,4 +17,4 @@ Clases, bibliografías, código y proyectos en Node js
 - Sockets - Aplicacion de colas
 - Sockets con autenticacion
 - Node + Typescript - Mysql
-- 
+

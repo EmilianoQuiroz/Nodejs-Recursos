@@ -8,3 +8,6 @@ Clases, bibliografías, código y proyectos en Node js
 - Web server - HTTP - Express -HBS
 - Rest Server - Configuraciones iniciales
 - Alcances de Rest Server y mantenimiento de coleccion de usuarios
+- Autenticacion de usuarios -JWT
+- Google Sing In Front y back
+- Carga de archivos y proteccion de los mismos 

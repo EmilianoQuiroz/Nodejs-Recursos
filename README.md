@@ -2,6 +2,8 @@
 
 Clases, bibliografías, código y proyectos en Node js
 
+![image](https://user-images.githubusercontent.com/78452543/221738797-b28388d1-8eee-44fb-9832-f4ae7e2cc09d.png)
+
 ### Temas del curso
 
 - Fundamentos de Node

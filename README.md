@@ -11,3 +11,8 @@ Clases, bibliografías, código y proyectos en Node js
 - Autenticacion de usuarios -JWT
 - Google Sing In Front y back
 - Carga de archivos y proteccion de los mismos 
+- Sockets - Fundamentos
+- Sockets - Aplicacion de colas
+- Sockets con autenticacion
+- Node + Typescript - Mysql
+- 
